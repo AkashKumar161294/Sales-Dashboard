@@ -94,5 +94,6 @@ Most profitable sales channels
 Supports strategic decision-making for sales optimization and revenue growth
 
 
-📷 Dashboard Preview
+📷 Dashboard Preview/Demo
 (Image included in repository for visual reference)
+Example: https://github.com/AkashKumar161294/Sales-Dashboard/blob/main/Snapshot%20of%20Sales%20Dashboard.png
